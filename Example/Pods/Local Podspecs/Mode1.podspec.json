@@ -1,9 +1,9 @@
 {
   "name": "Mode1",
   "version": "0.1.0",
-  "summary": "A short description of Mode1.",
+  "summary": "zheshishenmeguidongxia",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/acct<blob>=<NULL>/Mode1",
+  "homepage": "https://github.com/a752538236/Mode1",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "acct<blob>=<NULL>": "wt034038@126.com"
   },
   "source": {
-    "git": "https://github.com/acct<blob>=<NULL>/Mode1.git",
+    "git": "https://github.com/a752538236/Mode1.git",
     "tag": "0.1.0"
   },
   "platforms": {
