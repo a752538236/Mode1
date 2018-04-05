@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Mode1_Example' do
+  pod 'Mode1', :path => '../'
+
+  target 'Mode1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
