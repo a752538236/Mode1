@@ -1,0 +1,16 @@
+PODS:
+  - Mode1 (0.1.0)
+
+DEPENDENCIES:
+  - Mode1 (from `../`)
+
+EXTERNAL SOURCES:
+  Mode1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mode1: 5061902a0bfa19532089ac577d2e6e50f60e02dc
+
+PODFILE CHECKSUM: 2df7b790c8e6b65d1a4becdfd16378883acaf637
+
+COCOAPODS: 1.5.0

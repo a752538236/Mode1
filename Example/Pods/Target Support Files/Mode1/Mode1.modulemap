@@ -1,0 +1,6 @@
+framework module Mode1 {
+  umbrella header "Mode1-umbrella.h"
+
+  export *
+  module * { export * }
+}
